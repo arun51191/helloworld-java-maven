@@ -41,6 +41,7 @@ This is my fixed for DPLM-1
 </server>
 
 =======================Setting.xml with Artifactory Setup======================
+
 <mirror>
       <id>central</id>
       <name>Maven Repository Manager running on repo.mycompany.com</name>
