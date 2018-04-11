@@ -41,7 +41,7 @@
 <distributionManagement>
     <repository>
         <id>deployment</id>
-        <name>internal-releases</name>
+        <name>internal-release</name>
         <url>http://ec2-13-127-120-101.ap-south-1.compute.amazonaws.com:8081/nexus/content/repositories/DO/</url>
     </repository>
     <snapshotRepository>
