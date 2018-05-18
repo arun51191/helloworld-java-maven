@@ -3,7 +3,7 @@ This is my fixed for DPLM-1
 
 <distributionManagement>
 	<repository>
-		<id>tata</id>
+		<id>tata1</id>
 		<name>Internal Release</name>
 		<url>http://13.127.163.182:8081/repository/scmgalaxy/</url>
 	</repository>
